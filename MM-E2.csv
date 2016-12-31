@@ -1,0 +1,5 @@
+Linux 4.4.0-57-generic (ip-172-31-13-35) 	12/31/2016 	_x86_64_	(8 CPU)
+
+03:28:00 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+03:28:01 AM     all      0.00      0.00      0.00      0.00      0.00    100.00
+03:28:02 AM     all      0.00      0.00      0.00      0.00      0.00    100.00
